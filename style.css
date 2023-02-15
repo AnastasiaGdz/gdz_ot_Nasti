@@ -1,0 +1,27 @@
+
+html {
+    color:rgb(12, 81, 138);
+}
+body {
+font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+html ul {
+    color: indianred;
+}
+.txt {
+    color:rgb(111, 96, 228);
+}
+.ssilka {
+    color: rgb(148, 79, 213);
+    } 
+.zagolovok{
+    color:rgb(96, 84, 173);
+}
+h1 {
+text-align: center
+}
+.rightimg {
+    float: right; /* Выравнивание по правому краю */
+    margin: 5px 0 5px 5px; /* Отступы вокруг картинки */
+   }
+    
